@@ -11,7 +11,7 @@
 
 </br>
 
-- 🔧 I’m currently working on [Houston City RP's Website](https://discord.gg/houstoncityrp)
+- 🔧 I’m currently working on ![Houston City RP's Website](https://discord.gg/houstoncityrp)
 - 💡 I’m curious about [HTML, CSS, JS](https://www.freepnglogos.com/uploads/javascript-png/fix-html-css-javascript-for-website-logo-6.png)
 - 📖 I’m currently learning 
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
