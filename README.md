@@ -3,7 +3,7 @@
 </h1>
 
 ## 👋 - Hey!
-I'm Rocky, my real name is Alex, i'm a 15 years old web developer from [Texas](https://www.texas.gov/).
+I'm Rocky, my real name is Alex, i'm a 15 years old web developer from [Texas](https://www.texas.gov/), I am currently studying Software Development, and hope to pursure my career on the road traveling America!
 
 - 📸 Administration & Media member at [@Houston City Roleplay](http://discord.gg/houstoncityrp)
 - ⚙️ Founder at [@Trigger Development](https://discord.gg/m2Ysw9zVmN)
