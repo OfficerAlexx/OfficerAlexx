@@ -15,6 +15,8 @@ I'm Rocky, my real name is Alex, i'm a 15 years old web developer from [Texas](h
 - FiveM Server Development
 
 ## 🔗 - Contact
-- [@SheriffR0cky](https://twitter.com/SheriffR0cky) on Twitter
-- [@sheriffr0cky](https://www.instagram.com/sheriffr0cky/) on Instagram
+- [@sheriffr0cky](https://twitter.com/SheriffR0cky) on Twitter.
+- [@sheriffr0cky](https://www.instagram.com/sheriffr0cky/) on Instagram.
+- [@sheriffr0cky](https://www.twitch.tv/sheriffr0cky) on Twitch.
+- [@Sheriff Rocky](https://www.youtube.com/channel/UCVVDiiHg-lW_Zjz4HKGPK5g) on Youtube.
 - [@Alexx™#0001](./) on Discord
