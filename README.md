@@ -6,14 +6,13 @@
 I'm Rocky, my real name is Alex, i'm a 15 years old web developer from [Texas](https://www.texas.gov/).
 
 - 📸 Administration & Media member at [@Houston City Roleplay](http://discord.gg/houstoncityrp)
-- ⚙️ Founder at [Trigger Development](https://discord.gg/m2Ysw9zVmN)
+- ⚙️ Founder at [@Trigger Development](https://discord.gg/m2Ysw9zVmN)
 - 🎵 Discord Manager & Administrator for [@KirawBeats](https://kirawbeats.com/)
 
 ## 🤹 - Skills
 - Html
 - CSS
 - FiveM Server Development
-- 
 
 ## 🔗 - Contact
 - [@SheriffR0cky](https://twitter.com/SheriffR0cky) on Twitter
